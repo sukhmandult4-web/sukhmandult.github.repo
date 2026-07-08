@@ -15,6 +15,7 @@ I am a Computer Science student with interests in Software Development, Artifici
 * Python
 * Git & GitHub
 * Artificial Intelligence
+*SQL
 
 ## Portfolio Website
 
